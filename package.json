@@ -1,6 +1,12 @@
 {
   "name": "discord-reaction-bot",
   "version": "1.0.0",
+  "description": "Discord bot that reacts with ❌ and ✅",
   "main": "index.js",
   "scripts": {
-    "start":
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
